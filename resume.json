@@ -6,7 +6,7 @@
     "email": "mail@gpir.es",
     "phone": "+351 915049434",
     "website": "https://gpir.es",
-    "summary": "I usually say my life goal is to save the World. It might be too ambitious, so I'd already be happy if I could just make it a better place. I plan to do that via my very particular set of skills, both hard and soft. I'm hardworking and resilient. I play for the team. I don't give up. When I'm not coding, hacking a project together, training a model, reading a book, cooking, running, travelling, playing some instrument, or spending time with my friends and family, I'm either sleeping or trying to.",
+    "summary": "I usually say my life goal is to save the World. It might be too ambitious, so I'd already be happy if I could just make it a better place. I plan to do that via my very particular set of skills. I'm hardworking and resilient. I play for the team. I don't give up. When I'm not coding, hacking a project together, training a machine learning model, reading a book, cooking, running, travelling, playing some instrument, or spending time with my friends and family, I'm either sleeping or trying to.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -63,6 +63,21 @@
       "endDate": "2013-10",
       "summary": "Code review and refactoring on an internal tool / R&D / C, C#, C++, SQL, ",
       "highlights": []
+    },
+    {
+      "company": "",
+      "position": "Personal projects",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "These are some of the projects I've worked on throughout my life",
+      "highlights": [
+        "Dynamic bayesian network constructor (Java)",
+        "SATPLAN system (Python)",
+        "Skeleton for a distributed e-mail system (Go)",
+        "Skeleton for a distributed hashtable (C)",
+        "Parallelization of a MAXSAT solver (C)"
+      ]
     }
   ],
   "volunteer": [],
