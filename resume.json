@@ -24,17 +24,22 @@
         "network": "GitHub",
         "username": "colobas",
         "url": "https://github.com/colobas"
+      },
+      {
+        "network": "Medium",
+        "username": "colobas",
+        "url": "https://medium.com/@colobas"
       }
     ]
   },
   "work": [
     {
-      "company": "Quidgest",
-      "position": "Software Engineering Intern",
-      "website": "https://quidgest.com",
-      "startDate": "2013-08",
-      "endDate": "2013-10",
-      "summary": "Code review and refactoring on an internal tool / R&D / C, C#, C++, SQL, ",
+      "company": "Jungle AI",
+      "position": "Data Scientist",
+      "website": "http://jungle.ai",
+      "startDate": "2017-07",
+      "endDate": "",
+      "summary": "I started at Jungle as a Data Science intern. During my internship I worked mostly on assembling an infrastructure that allows us to do Machine Learning at scale. Mesos, Marathon, Kubernetes, Dask, Airflow, Docker, Zookeeper, are some of the technologies we're leveraging.",
       "highlights": []
     },
     {
@@ -46,17 +51,17 @@
       "summary": "I was a remote \"wintern\" at Snowplow for circa 3 months in 2017. They're a über-cool data analytics company. I helped them extend some of their tech to Google Cloud Platform, and along the way I learned Scala and gained experience with cloud technologies.",
       "highlights": [
         "Learned Scala",
-        "Developed an example project leveraging GCP's Dataflow. Blog post [here: https://snowplowanalytics.com/blog/2017/03/30/google-cloud-dataflow-example-project-released/",
+        "Developed an example project leveraging GCP's Dataflow. Blog post here: https://snowplowanalytics.com/blog/2017/03/30/google-cloud-dataflow-example-project-released/",
         "Extended key components of Snowplow, enabling them to run on GCP"
       ]
     },
     {
-      "company": "Jungle AI",
-      "position": "Data Scientist",
-      "website": "http://jungle.ai",
-      "startDate": "2017-07",
-      "endDate": "now",
-      "summary": "I started at Jungle as a Data Science intern. During my internship I worked mostly on assembling an infrastructure that allows us to do Machine Learning at scale. Mesos, Marathon, Kubernetes, Dask, Airflow, Docker, Zookeeper, are some of the technologies we're leveraging.",
+      "company": "Quidgest",
+      "position": "Software Engineering Intern",
+      "website": "https://quidgest.com",
+      "startDate": "2013-08",
+      "endDate": "2013-10",
+      "summary": "Code review and refactoring on an internal tool / R&D / C, C#, C++, SQL, ",
       "highlights": []
     }
   ],
