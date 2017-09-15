@@ -1,0 +1,173 @@
+{
+  "basics": {
+    "name": "Guilherme Pires",
+    "label": "Data Scientist / Developer / Wannabe World-changer",
+    "picture": "",
+    "email": "mail@gpir.es",
+    "phone": "+351 915049434",
+    "website": "https://gpir.es",
+    "summary": "I usually say my life goal is to save the World. It might be too ambitious, so I'd already be happy if I could just make it a better place. I plan to do that via my very particular set of skills, both hard and soft. I'm hardworking and resilient. I play for the team. I don't give up. When I'm not coding, hacking a project together, training a model, reading a book, cooking, running, travelling, playing some instrument, or spending time with my friends and family, I'm either sleeping or trying to.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Lisbon",
+      "countryCode": "PT",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "colobas_",
+        "url": "https://twitter.com/colobas_"
+      },
+      {
+        "network": "GitHub",
+        "username": "colobas",
+        "url": "https://github.com/colobas"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Quidgest",
+      "position": "Software Engineering Intern",
+      "website": "https://quidgest.com",
+      "startDate": "2013-08",
+      "endDate": "2013-10",
+      "summary": "Code review and refactoring on an internal tool / R&D / C, C#, C++, SQL, ",
+      "highlights": []
+    },
+    {
+      "company": "Snowplow Analytics",
+      "position": "Data Engineering Intern",
+      "website": "https://snowplowanalytics.com",
+      "startDate": "2017-01",
+      "endDate": "2017-03",
+      "summary": "I was a remote \"wintern\" at Snowplow for circa 3 months in 2017. They're a über-cool data analytics company. I helped them extend some of their tech to Google Cloud Platform, and along the way I learned Scala and gained experience with cloud technologies.",
+      "highlights": [
+        "Learned Scala",
+        "Developed an example project leveraging GCP's Dataflow. Blog post [here: https://snowplowanalytics.com/blog/2017/03/30/google-cloud-dataflow-example-project-released/",
+        "Extended key components of Snowplow, enabling them to run on GCP"
+      ]
+    },
+    {
+      "company": "Jungle AI",
+      "position": "Data Scientist",
+      "website": "http://jungle.ai",
+      "startDate": "2017-07",
+      "endDate": "now",
+      "summary": "I started at Jungle as a Data Science intern. During my internship I worked mostly on assembling an infrastructure that allows us to do Machine Learning at scale. Mesos, Marathon, Kubernetes, Dask, Airflow, Docker, Zookeeper, are some of the technologies we're leveraging.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Instituto Superior Técnico",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Master",
+      "startDate": "2012-09",
+      "endDate": "2017-09",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Karlsruhe Institut für Technologie",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "ERASMUS / Semester abroad",
+      "startDate": "2015-09",
+      "endDate": "2016-02",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Data Science",
+      "level": "",
+      "keywords": [
+        "Python",
+        "scikit-learn",
+        "pandas",
+        "dask",
+        "NumPy",
+        "Keras",
+        "NLP"
+      ]
+    },
+    {
+      "name": "SW development",
+      "level": "",
+      "keywords": [
+        "Experience with C, C++, Scala, Java, Go",
+        "scraping",
+        "bash scripting"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "Basic back-end development in Python (Django, Flask, Bottle)",
+        "Basic front-end development with CSS, HTML5, JS"
+      ]
+    },
+    {
+      "name": "Machine Learning / AI",
+      "level": "",
+      "keywords": [
+        "Formal training in Machine Learning, Statistical Learning, Artificial Intelligence and Optimization",
+        "Constant studying and keeping up with the developments in the field"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Track and Field",
+      "keywords": []
+    },
+    {
+      "name": "Music",
+      "keywords": []
+    },
+    {
+      "name": "Travelling",
+      "keywords": []
+    },
+    {
+      "name": "Economics",
+      "keywords": []
+    },
+    {
+      "name": "Politics",
+      "keywords": []
+    },
+    {
+      "name": "Books",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "references": []
+}
