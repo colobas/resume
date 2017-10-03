@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Guilherme Pires",
-    "label": "Data Scientist / Developer / Wannabe World-changer",
+    "label": "ML+Data Engineer / Developer / Wannabe World-changer",
     "picture": "",
     "email": "mail@gpir.es",
     "phone": "+351 915049434",
@@ -35,7 +35,7 @@
   "work": [
     {
       "company": "Jungle AI",
-      "position": "Data Scientist",
+      "position": "ML/Data Engineer",
       "website": "http://jungle.ai",
       "startDate": "2017-07",
       "endDate": "",
