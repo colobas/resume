@@ -40,7 +40,12 @@
       "startDate": "2017-09-01",
       "endDate": "2018-07-01",
       "summary": "Since Sep-2017 I'm a full time ML+Data Engineer. Here I've worked with very diverse multivariate time-series datasets, with data sources spanning from heavy industry, to utilities and renewables. Here I've participated in projects that entailed finding causes of quality problems in factories, segmenting and aggregating sensor data by regimes of operation, among others. At Jungle I've also been working on my MSc thesis, on the topic of (deep) Generative Models for unsupervised learning of multi variate time series data.",
-      "highlights": []
+      "highlights": [
+          "Worked with diverse data sources, most commonly with very large multivariate time series datasets",
+          "Developed custom algorithms/solutions to deal with said datasets",
+          "Applied SoA techniques in DL and Gradient Boosting algorithms to our customers datasets",
+          "Worked on unsupervised learning for multivariate time series, using (deep) generative models, as my MSc thesis"
+      ]
     },
     {
       "company": "Jungle",
@@ -49,7 +54,11 @@
       "startDate": "2017-07-01",
       "endDate": "2017-09-01",
       "summary": "I started at Jungle as a Data Engineering intern. During my internship I worked mostly on assembling an infrastructure that allows us to do Machine Learning at scale. Mesos, Marathon, Kubernetes, Dask, Airflow, Docker, Zookeeper, are some of the technologies we're leveraging.",
-      "highlights": []
+      "highlights": [
+          "Gained experience with Kubernetes, Mesos and Docker",
+          "Gained experience with Azure",
+          "Assembled a prototype of an auto-scalable cluster for Data Science development environments"
+      ]
     },
     {
       "company": "Snowplow Analytics",
@@ -74,8 +83,8 @@
       "highlights": []
     },
     {
-      "company": "",
-      "position": "Personal projects",
+      "company": "Personal projects",
+      "position": "",
       "website": "",
       "startDate": "1999-01-01",
       "endDate": "1999-01-02",
