@@ -5,7 +5,7 @@
     "picture": "",
     "email": "mail@gpir.es",
     "phone": "+351 915049434",
-    "website": "https://gpir.es",
+    "website": "http://gpir.es",
     "summary": "I usually say my life goal is to save the World. It might be too ambitious, so I'd already be happy if I could just make it a better place. I plan to do that via my very particular set of skills. I'm hardworking and resilient. I play for the team. I don't give up. When I'm not coding, hacking a project together, training a machine learning model, reading a book, cooking, running, travelling, playing some instrument, or spending time with my friends and family, I'm either sleeping or trying to.",
     "location": {
       "address": "",
@@ -90,6 +90,9 @@
       "endDate": "1999-01-02",
       "summary": "These are some of the projects I've worked on throughout my life",
       "highlights": [
+        "Politifact scraper",
+        "My wedding website",
+        "Automated Betfair betting strategy",
         "Dynamic bayesian network constructor (Java)",
         "SATPLAN system (Python)",
         "Skeleton for a distributed e-mail system (Go)",
@@ -103,7 +106,7 @@
     {
       "institution": "Instituto Superior Técnico",
       "area": "Electrical and Computer Engineering",
-      "studyType": "Master",
+      "studyType": "MSc",
       "startDate": "2012-09-01",
       "endDate": "2017-09-01",
       "gpa": "",
@@ -139,8 +142,8 @@
       "level": "",
       "keywords": [
         "Experience with C, C++, Scala, Java, Go",
-        "web scraping",
-        "bash scripting"
+        "Web scraping",
+        "Bash scripting"
       ]
     },
     {
@@ -200,6 +203,10 @@
       "keywords": []
     },
     {
+      "name": "Philosophy",
+      "keywords": []
+    },
+    {
       "name": "Economics",
       "keywords": []
     },
@@ -209,9 +216,7 @@
     },
     {
       "name": "Books",
-      "keywords": [
-        ""
-      ]
+      "keywords": []
     }
   ],
   "references": []
