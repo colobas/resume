@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Guilherme Pires",
-    "label": "ML+Data Engineer / Developer / Wannabe World-changer",
+    "label": "ML+Data Engineer / Wannabe World-changer",
     "picture": "",
     "email": "mail@gpir.es",
     "phone": "+351 915049434",
@@ -34,12 +34,21 @@
   },
   "work": [
     {
-      "company": "Jungle AI",
-      "position": "ML/Data Engineer",
+      "company": "Jungle",
+      "position": "ML+Data Engineer",
+      "website": "http://jungle.ai",
+      "startDate": "2017-09",
+      "endDate": "",
+      "summary": "Since Sep-2017 I'm a full time ML+Data Engineer. Here I've worked with very diverse multivariate time-series datasets, with data sources spanning from heavy industry, to utilities and renewables. Here I've participated in projects that entailed finding causes of quality problems in factories, segmenting and aggregating sensor data by regimes of operation, among others. At Jungle I've also been working on my MSc thesis, on the topic of (deep) Generative Models for unsupervised learning of multi variate time series data.",
+      "highlights": []
+    },
+    {
+      "company": "Jungle",
+      "position": "Data Engineering Intern",
       "website": "http://jungle.ai",
       "startDate": "2017-07",
-      "endDate": "",
-      "summary": "I started at Jungle as a Data Science intern. During my internship I worked mostly on assembling an infrastructure that allows us to do Machine Learning at scale. Mesos, Marathon, Kubernetes, Dask, Airflow, Docker, Zookeeper, are some of the technologies we're leveraging.",
+      "endDate": "2017-09",
+      "summary": "I started at Jungle as a Data Engineering intern. During my internship I worked mostly on assembling an infrastructure that allows us to do Machine Learning at scale. Mesos, Marathon, Kubernetes, Dask, Airflow, Docker, Zookeeper, are some of the technologies we're leveraging.",
       "highlights": []
     },
     {
