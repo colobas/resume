@@ -37,8 +37,8 @@
       "company": "Jungle",
       "position": "ML+Data Engineer",
       "website": "http://jungle.ai",
-      "startDate": "2017-09",
-      "endDate": "",
+      "startDate": "2017-09-01",
+      "endDate": "2018-07-01",
       "summary": "Since Sep-2017 I'm a full time ML+Data Engineer. Here I've worked with very diverse multivariate time-series datasets, with data sources spanning from heavy industry, to utilities and renewables. Here I've participated in projects that entailed finding causes of quality problems in factories, segmenting and aggregating sensor data by regimes of operation, among others. At Jungle I've also been working on my MSc thesis, on the topic of (deep) Generative Models for unsupervised learning of multi variate time series data.",
       "highlights": []
     },
@@ -46,8 +46,8 @@
       "company": "Jungle",
       "position": "Data Engineering Intern",
       "website": "http://jungle.ai",
-      "startDate": "2017-07",
-      "endDate": "2017-09",
+      "startDate": "2017-07-01",
+      "endDate": "2017-09-01",
       "summary": "I started at Jungle as a Data Engineering intern. During my internship I worked mostly on assembling an infrastructure that allows us to do Machine Learning at scale. Mesos, Marathon, Kubernetes, Dask, Airflow, Docker, Zookeeper, are some of the technologies we're leveraging.",
       "highlights": []
     },
@@ -55,8 +55,8 @@
       "company": "Snowplow Analytics",
       "position": "Data Engineering Intern",
       "website": "https://snowplowanalytics.com",
-      "startDate": "2017-01",
-      "endDate": "2017-03",
+      "startDate": "2017-01-01",
+      "endDate": "2017-03-01",
       "summary": "I was a remote \"wintern\" at Snowplow for circa 3 months in 2017. They're a über-cool data analytics company. I helped them extend some of their tech to Google Cloud Platform, and along the way I learned Scala and gained experience with cloud technologies.",
       "highlights": [
         "Learned Scala",
@@ -68,8 +68,8 @@
       "company": "Quidgest",
       "position": "Software Engineering Intern",
       "website": "https://quidgest.com",
-      "startDate": "2013-08",
-      "endDate": "2013-10",
+      "startDate": "2013-08-01",
+      "endDate": "2013-10-01",
       "summary": "Code review and refactoring on an internal tool / R&D / C, C#, C++, SQL, ",
       "highlights": []
     },
@@ -77,8 +77,8 @@
       "company": "",
       "position": "Personal projects",
       "website": "",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "1999-01-01",
+      "endDate": "1999-01-02",
       "summary": "These are some of the projects I've worked on throughout my life",
       "highlights": [
         "Dynamic bayesian network constructor (Java)",
@@ -95,8 +95,8 @@
       "institution": "Instituto Superior Técnico",
       "area": "Electrical and Computer Engineering",
       "studyType": "Master",
-      "startDate": "2012-09",
-      "endDate": "2017-09",
+      "startDate": "2012-09-01",
+      "endDate": "2017-09-01",
       "gpa": "",
       "courses": []
     },
@@ -104,8 +104,8 @@
       "institution": "Karlsruhe Institut für Technologie",
       "area": "Electrical and Computer Engineering",
       "studyType": "ERASMUS / Semester abroad",
-      "startDate": "2015-09",
-      "endDate": "2016-02",
+      "startDate": "2015-09-01",
+      "endDate": "2016-02-01",
       "gpa": "",
       "courses": []
     }
@@ -117,13 +117,12 @@
       "name": "Data Science",
       "level": "",
       "keywords": [
-        "Python",
+        "python",
         "scikit-learn",
         "pandas",
         "dask",
-        "NumPy",
-        "Keras",
-        "NLP"
+        "numpy",
+        "pytorch"
       ]
     },
     {
@@ -131,8 +130,15 @@
       "level": "",
       "keywords": [
         "Experience with C, C++, Scala, Java, Go",
-        "scraping",
+        "web scraping",
         "bash scripting"
+      ]
+    },
+    {
+      "name": "Cloud technologies",
+      "level": "",
+      "keywords": [
+        "Experience with Azure, Kubernetes, Mesos, Docker"
       ]
     },
     {
@@ -148,6 +154,7 @@
       "level": "",
       "keywords": [
         "Formal training in Machine Learning, Statistical Learning, Artificial Intelligence and Optimization",
+        "Developing my MSc thesis in probabilistic ML, using ANNs for (Amortised) Variational Inference in multivariate time-series models",
         "Constant studying and keeping up with the developments in the field"
       ]
     }
