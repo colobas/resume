@@ -119,20 +119,12 @@ BoldItalicFont=texgyreheros-bolditalic.otf
 
 \renewcommand{\section}[1]{
   {%
-  \LARGE\headingfont\color{headercolor}#1%
+  \colorbox{headercolor}{\parbox{\textwidth}{\LARGE\headingfont\color{white}#1}}%
   }
   \par\vspace{.25\parskip}%
 }
 
-\renewcommand{\subsection}[1]{
-  \par\vspace{.5\parskip}%
-  {%
-  \large\headingfont\color{headercolor} #1%
-  }
-}
-
 \pagestyle{empty}
-
 
 %%%%%%%%%%%%%%%%%%%%
 % List environment %
