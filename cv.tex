@@ -1,0 +1,156 @@
+%!TEX TS-program = xelatex
+\documentclass[]{colobas}
+\usepackage{scrextend}
+
+\begin{document}
+\header{Guilherme}{Pires}{ML Engineer}
+
+\begin{minipage}[t]{0.3\textwidth}
+\section{find me}
+  \vspace{7pt}
+  \href{mailto:mail@gpir.es}{mail@gpir.es}\\
+  \href{https://colobas.github.io}{colobas.github.io}\\
+  \href{https://github.com/colobas}{github.com/colobas}\\
+  \href{https://linkedin.com/in/guilhermegrijopires/}{linkedin.com/in/guilhermegrijopires}%
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.3\textwidth}
+\section{skills \& tools}
+  \vspace{7pt}
+  \textbf{very confident:} python, pandas, sklearn, numpy, bash, linux\\
+  \textbf{confident:} pytorch, kubernetes, azure, aws, golang, c, dask, docker\\
+  \textbf{beginner:} scala, nlp techniques, mesos, rabbitmq, gcp%
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.3\textwidth}
+\section{technical interests}
+  \vspace{7pt}
+  ml theory, probabilistic modelling, variational inference, optimization%
+  \vspace{15pt}
+\section{personal interests}
+  \vspace{7pt}
+  technology, hackathons, climate change, economy, philosophy, the meaning of life,
+  music, running
+\end{minipage}
+
+\vspace{0.5cm}
+
+\section{education}
+%\begin{entrylist}
+\entry
+  {Since Sep 2012}
+  {MSc degree}
+  {IST - Lisboa}
+  {Electrical and Computer Engineering}
+\entry
+  {Oct - Feb 2015/16}
+  {ERASMUS - exchange program}
+  {KIT - Karlsruhe}
+  {Computer Science}
+%\end{entrylist}
+
+\section{experience}
+%\begin{entrylist}
+\entry
+  {Since Sep 2017}
+  {\href{https://jungle.ai}{Jungle}}
+  {ML Engineer}
+  {Since Sep-2017 I'm a full time \textbf{ML Engineer}. I've worked with diverse 
+  \textbf{multivariate time-series} datasets, with data sources spanning from 
+  \textbf{heavy industry}, to \textbf{utilities} and \textbf{renewables}.
+  Keywords: machine learning, time-series, root cause analysis, forecasting,
+  probabilistic modelling}
+\entry
+  {Jul - Sep 2017}
+  {\href{https://jungle.ai}{Jungle}}
+  {Data Engineering Intern}
+  {I started at Jungle as a \textbf{Data Engineering} intern. During my internship I
+  worked on assembling an \textbf{infrastructure} to enable Machine Learning at scale.
+  To do so, I looked into and gained experiece with technologies such as
+  \textbf{Mesos, Marathon, Kubernetes, Dask, Docker}. I also built a PoC of a
+  job scheduler, see \href{https://github.com/colobas/obras}{here}}
+\entry
+  {Jan - Mar 2017}
+  {\href{https://snowplowanalytics.com}{Snowplow}}
+  {Data Engineering Intern}
+  {I was a remote "wintern" at Snowplow for about 3 months in 2017. I helped
+  them extend some of their tech to \textbf{Google Cloud Platform}, having gained 
+  introductory experience with \textbf{Scala}, and GCP along the way. See the
+  resulting blogpost \href{https://snowplowanalytics.com/blog/2017/03/30/google-cloud-dataflow-example-project-released/}{here}}
+\entry
+  {Aug - Oct 2013}
+  {\href{https://quidgest.com}{Quidgest}}
+  {SW Engineering Intern}
+  {My first job in software was a summer internship at Quidgest. I spent my time
+  there review code and refactoring an internal tool, at the R\&D department.
+  I worked with C, C\#, C++, SQL}
+%\end{entrylist}
+\section{projects}
+
+%\begin{entrylist}
+\entry
+  {}
+  {MSc thesis: Deep Generative Models for Multivariate Time-series}
+  {Python}
+  {I'm working with unsupervised learning for multivariate time-series. I'm
+  specially interested in segmenting high dimensional time-series into
+  "regimes of operation", similar to the goal of changepoint detection.}
+\entry
+  {}
+  {PoC of a job scheduler}
+  {Python}
+  {During my summer internship at Jungle, I built a PoC of a job scheduler,
+  using RabbitMQ for task queues, and Redis for logging. The goal was to have
+  the concept of Recipes - which would be descriptions of tasks. Basically,
+  to create a Recipe you'd implement a subclass of the AbstractRecipe class.
+  The worker spawners are also abstract, to allow workers of different natures.
+  I only implemented a CPUSpawner which creates workers in different processes.}
+\entry
+  {}
+  {Scraper for politifact.com claim checks}
+  {Python}
+  {I was working on an automated claim checking project, and needed a dataset,
+  so I built a scraper for \href{politifact.com}{politifact.com}}
+\entry
+  {}
+  {Betfair scraper and automated betting bot}
+  {Python}
+  {Some friends came up with a soccer betting strategy, based on metrics 
+  calculated from live statistics of soccer matches. I scraped Betfair and some
+  other websites, and built a bot that computed the metrics and placed bets
+  according to the strategy.}
+\entry
+  {}
+  {Dynamic Bayesian Network learning}
+  {Java}
+  {Implemented a program to learn DBNs from data. See project assigment 
+  \href{https://fenix.tecnico.ulisboa.pt/downloadFile/1689468335554723/apresentacao-projecto-POO1415.pdf}{here}}
+\entry
+  {}
+  {SATPLAN system}
+  {Python}
+  {Implemented a SATPLAN system for an AI course. It worked by translating a
+  planning problem into a SAT problem, solving the SAT problem, and translating
+  the solution into the planning semantics. See here \href{https://github.com/colobas/ia-proj2}{here}}
+\entry
+  {}
+  {PoC of a distributed "e-mail" system}
+  {Go}
+  {Implemented a distributed system for nodes to send private messages. It's a
+  combination of a distributed hashtable, to store messages in the network, and
+  an onion routing circuit, so that the node who stores the message is not the
+  node who wants to send it. See \href{https://github.com/colobas/distributed-email}{here}}
+\entry
+  {}
+  {PoC of a distributed hashtable}
+  {C}
+  {Implemented a skeleton for a distributed hashtable.}
+\entry
+  {}
+  {MAXSAT solver - serial, parallel, distributed}
+  {C}
+  {Implemented three versions of a MAXSAT solver: serial, parallel (OpenMP), and
+  distributed (MPI). See \href{https://github.com/colobas/maxsat-solver}{here}}
+%\end{entrylist}
+\end{document}
+
